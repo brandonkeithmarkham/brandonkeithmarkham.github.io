@@ -2,7 +2,7 @@
 layout: home
 title: Welcome
 ---
-
+<img src="{{ site.profile_picture }}" alt="Brandon Markham" style="float: left; width: 150px; margin-right: 20px; border-radius: 50%;" />
 # 👋 Hi, I'm Brandon Markham
 
 I'm an Electrical and Computer Engineering graduate passionate about bridging hardware and software through projects in:
