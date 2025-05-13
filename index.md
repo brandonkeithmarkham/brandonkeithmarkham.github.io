@@ -3,6 +3,7 @@ layout: home
 title: Welcome
 ---
 
+
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <img src="/assets/images/profile.png" alt="Brandon Markham" style="width: 150px; border-radius: 50%;">
