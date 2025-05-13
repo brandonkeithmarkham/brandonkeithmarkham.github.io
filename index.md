@@ -37,7 +37,7 @@ title: Welcome
 
 ### ⚙️ PID Controller Design
 - Designed and tuned a PID controller using MATLAB, LTspice, and theoretical methods.
-- [View Project Repository](https://github.com/brandonkeithmarkham/pid_controller_design_project)
+- [View Project Repository](https://github.com/brandonkeithmarkham/linear_control_systems_pid_controller)
 
 ## 📄 Resume
 - [Download Resume (PDF)](https://link-to-your-resume.pdf)
