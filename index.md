@@ -16,19 +16,19 @@ I'm an Electrical and Computer Engineering graduate passionate about bridging ha
 
 ### 🎛️ Guitar Looper Pedal
 - Senior Design Project: Real-time embedded guitar looper with SD card storage and undo/redo functionality.
-- [View Project Repository](https://github.com/yourusername/guitar_looper_pedal)
+- [View Project Repository](https://github.com/brandonkeithmarkham/guitar_looper_pedal)
 
 ### 🖥️ PCB Defect Detection
 - Deep learning project using transfer learning with YOLO, SSD, and Faster R-CNN models.
-- [View Project Repository](https://github.com/yourusername/pcb_defect_detection_transfer_learning)
+- [View Project Repository](https://github.com/brandonkeithmarkham/pcb_defect_detection_transfer_learning)
 
 ### 🧮 VLSI Carry Lookahead Adder
 - Designed and simulated an 8-bit carry lookahead adder using CMOS logic.
-- [View Project Repository](https://github.com/yourusername/vlsi_carry_lookahead_adder)
+- [View Project Repository](https://github.com/brandonkeithmarkham/vlsi_carry_lookahead_adder)
 
 ### ⚙️ PID Controller Design
 - Designed and tuned a PID controller using MATLAB, LTspice, and theoretical methods.
-- [View Project Repository](https://github.com/yourusername/pid_controller_design_project)
+- [View Project Repository](https://github.com/brandonkeithmarkham/pid_controller_design_project)
 
 ## 📄 Resume
 - [Download Resume (PDF)](https://link-to-your-resume.pdf)
