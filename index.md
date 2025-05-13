@@ -2,15 +2,23 @@
 layout: home
 title: Welcome
 ---
-<img src="{{ site.profile_picture }}" alt="Brandon Markham" style="float: left; width: 150px; margin-right: 20px; border-radius: 50%;" />
-# 👋 Hi, I'm Brandon Markham
 
-I'm an Electrical and Computer Engineering graduate passionate about bridging hardware and software through projects in:
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-- 🔧 Embedded Systems
-- 🧠 Machine Learning
-- 🏥 Medical Technology
-- 🎸 Audio Electronics
+  <img src="/assets/images/profile.png" alt="Brandon Markham" style="width: 150px; border-radius: 50%;">
+
+  <div>
+    <h1>👋 Hi, I'm Brandon Markham</h1>
+    <p>I'm an Electrical and Computer Engineering graduate passionate about bridging hardware and software through projects in:</p>
+    <ul>
+      <li>🔧 Embedded Systems</li>
+      <li>🧠 Machine Learning</li>
+      <li>📋 Medical Technology</li>
+      <li>🎸 Audio Electronics</li>
+    </ul>
+  </div>
+
+</div>
 
 ## 🚀 Featured Projects
 
