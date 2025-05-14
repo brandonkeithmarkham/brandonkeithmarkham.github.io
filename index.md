@@ -47,6 +47,6 @@ title: Welcome
 - [Download Resume (PDF)](https://link-to-your-resume.pdf)
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername)
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/brandon-markham-369177267)
+- [GitHub](https://github.com/brandonkeithmarkham)
+- [Email](mailto:brandonkeithmarkham@gmail.com)
