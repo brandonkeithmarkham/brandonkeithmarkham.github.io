@@ -25,7 +25,7 @@ title: Welcome
 
 ### 🖥️ Integer ALU 
 - Behavioral implementation of an 8-bit integer ALU using Verilog
-- [View Project Repository](https://github.com/brandonkeithmarkham/pcb_defect_detection_transfer_learning)
+- [View Project Repository](https://github.com/brandonkeithmarkham/computer_architecture_integer_alu)
 
 ### 🎛️ Guitar Looper Pedal
 - Senior Design Project: Real-time embedded guitar looper with SD card storage and undo/redo functionality.
