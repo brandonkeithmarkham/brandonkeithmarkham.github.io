@@ -33,7 +33,7 @@ title: Welcome
 
 ### 🖥️ PCB Defect Detection
 - Deep learning project using transfer learning with YOLO, SSD, and Faster R-CNN models.
-- [View Project Repository](https://github.com/brandonkeithmarkham/pcb_defect_detection_transfer_learning)
+- [View Project Repository](https://github.com/brandonkeithmarkham/machine_learning_pcb_defect_detection)
 
 ### 🧮 VLSI Carry Lookahead Adder
 - Designed and simulated an 8-bit carry lookahead adder using CMOS logic.
