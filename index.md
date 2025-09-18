@@ -21,7 +21,7 @@ title: Welcome
 
 </div>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🖥️ Integer ALU 
 - Behavioral implementation of an 8-bit integer ALU using Verilog
