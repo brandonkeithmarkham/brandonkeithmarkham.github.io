@@ -44,7 +44,7 @@ title: Welcome
 - [View Project Repository](https://github.com/brandonkeithmarkham/linear_control_systems_pid_controller)
 
 ## 📄 Resume
-- [Download Resume (PDF)](https://brandonkeithmarkham.github.io/assets/brandon_markham_resume.pdf)
+- [Download Resume (PDF)](https://brandonkeithmarkham.github.io/assets/Resume.pdf)
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/brandon-markham-369177267)
